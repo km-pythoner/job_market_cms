@@ -7,6 +7,8 @@ from captcha.fields import CaptchaField
 
 
 class RegisterForm(forms.Form):
-    username = forms.CharField(required=True, min_length=12)
-    password = forms.CharField(required=True, min_length=6)
+    username = forms.CharField(required=True, min_length=4)
+    email = forms.CharField(required=True, min_length=12)
+    password1 = forms.CharField(required=True, min_length=6)
+    password2 = forms.CharField(required=True, min_length=6)
     captcha = CaptchaField(error_messages={'invalid': '验证码错误'})

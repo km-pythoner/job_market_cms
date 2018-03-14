@@ -10,69 +10,111 @@
             color: #fff;
             margin-bottom: 0;
         }
-    .bg-box2 {
-            background: url({% static 'images/招聘3.jpg' %}) repeat-x center center;
+
+        .bg-box2 {
+            background: url({% static 'images/招聘2.jpg' %}) repeat-x center center;
+            height: 850px;
         }
-    .captcha1 > input{
-          display: block;
-    width: 350px;
-    height: 34px;
-    padding: 6px 12px;
-    font-size: 14px;
-    line-height: 1.42857143;
-    color: #555;
-    background-color: #fff;
-    background-image: none;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
-    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
-    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
-    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
-    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
-}
-.captcha1 > img{
-    display: block;
+
+        .captcha1 > input {
+            display: inline;
+            float: left;
+            margin-left: 15px;
+            width: 310px;
+            height: 34px;
+            padding: 6px 12px;
+            font-size: 14px;
+            line-height: 1.42857143;
+            color: #555;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        .captcha1 > img {
+            display: inline;
+            cursor: pointer;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            height: 34px;
+
+        }
+
+        .register-header {
+            padding-bottom: 9px;
+            margin: 80px 0 20px;
+
+        }
+
+    .errorput,
+   .errorput input {
+    border-color: #f00;
+    box-shadow: 0 0 5px #aa0b0b;
 }
     </style>
 {% endblock %}
 
 {% block content %}
 
-    <div class="container-fluid">
-    <div  class="row">
-        <div class="bg-box2 col-md-12" style="top: 50px">
-            <form class="form-horizontal" style="margin-top: 150px">
-                <div class="form-group">
-                    <label for="txtEmail" class="col-md-offset-2 col-md-2 control-label">邮箱</label>
-                    <div class="col-md-4">
-                        <input type="email" class="form-control" id="txtEmail" placeholder="请输入注册邮箱">
-                    </div>
+    <div class="container-fluid bg-box2">
+        <div class="row" >
+            <div class="col-md-12" style="top: 80px">
+                <div class="register-header col-md-offset-4">
+                    <h1>用户注册
+                        <small>在猎场中放飞自我....</small>
+                    </h1>
                 </div>
-                <div class="form-group">
-                    <label for="txtPassword1" class="col-md-offset-2 col-md-2 control-label">密码</label>
-                    <div class="col-md-4">
-                        <input type="password" class="form-control" id="txtPassword1" placeholder="请输入密码">
-                    </div>
-                </div>
-                <div class="form-group">
-                    <label for="txtPassword2" class="col-md-offset-2 col-md-2 control-label">确认密码</label>
-                    <div class="col-md-4">
-                        <input type="password" class="form-control" id="txtPassword2" placeholder="请输入确认密码">
-                    </div>
-                </div>
-                <div class="form-group captcha1 ">
-                    <label for="txtPassword2" class="col-md-offset-2 col-md-2 control-label">验证码</label>
-                    {{ register_form.captcha }}
-                </div>
-                <div class="form-group">
-                    <div class="col-sm-offset-2 col-sm-10">
-                        <button type="submit" class="btn btn-default">Sign in</button>
-                    </div>
-                </div>
-            </form>
+            </div>
         </div>
-    </div>
+        <div class="row">
+            <div class=" col-md-12">
+                <form class="form-horizontal" style="margin-top: 80px" method="post" action="{% url 'register' %}">
+                    {% csrf_token %}
+                    <div class="form-group">
+                        <label for="txtUserName" class="col-md-offset-2 col-md-2 control-label">用户名</label>
+                        <div class="col-md-4">
+                            <input type="text" class="form-control" id="txtUserName" name="username"
+                                   value="{{ register_form.username.value }}" placeholder="请输入用户名">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="txtEmail" class="col-md-offset-2 col-md-2 control-label">邮箱</label>
+                        <div class="col-md-4">
+                            <input type="email" class="form-control" id="txtEmail" name="email"
+                                   value="{{ register_form.email.value }}" placeholder="请输入注册邮箱">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="txtPassword1" class="col-md-offset-2 col-md-2 control-label">密码</label>
+                        <div class="col-md-4">
+                            <input type="password" class="form-control" id="txtPassword1" name="password1"
+                                   value="{{ register_form.password1.value }}" placeholder="请输入密码">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="txtPassword2" class="col-md-offset-2 col-md-2 control-label">确认密码</label>
+                        <div class="col-md-4">
+                            <input type="password" class="form-control" id="txtPassword2" name="password2"
+                                   value="{{ register_form.password2.value }}" placeholder="请输入确认密码">
+                        </div>
+                    </div>
+                    <div class="form-group captcha1">
+                        <label for="txtPassword2" class="col-md-offset-2 col-md-2 control-label">验证码</label>
+                        {{ register_form.captcha }}
+                    </div>
+                    <div class="col-md-offset-4 col-md-4">
+                            {% for key,error in register_form.errors.items %}
+                                <p class="text-danger">{{ error }}</p>
+                            {% endfor %}
+                            {{ msg }}
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-offset-4 col-md-4">
+                            <button type="submit" class="btn btn-default btn-success btn-block">注册并登录</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
     </div>
 
 {% endblock %}

@@ -5,7 +5,6 @@
     <meta charset="UTF-8">
     <meta name="renderer" content="webkit">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
-    <title>Title</title>
     <title>{% block title %}猎场-模板{% endblock %}</title>
 
     {% block custom_css %}{% endblock %}
@@ -92,7 +91,7 @@
                             <a href="" data-toggle="modal" data-target="#login-modal">登录</a>
                         </li>
                         <li><a href="">/</a></li>
-                        <li><a href="">注册</a></li>
+                        <li><a href="{% url 'register' %}">注册</a></li>
                     </ul>
                 </div>
             </div>
