@@ -29,6 +29,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+AUTH_USER_MODEL = "users.UserProfile"
+
 
 # Application definition
 
@@ -43,6 +45,7 @@ INSTALLED_APPS = [
     'crispy_forms',
     'reversion',
     'captcha',
+    'users',
 ]
 
 MIDDLEWARE = [
@@ -145,5 +148,5 @@ EMAIL_HOST_PASSWORD = 'jj19900130'
 EMAIL_USE_TLS = False
 EMAIL_FROM = '15087180905@sina.cn'
 
-MEDIA_URL = '/media/'
-MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+MEDIA_URL = '/uploads/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'uploads')
