@@ -3,17 +3,10 @@
 {% load staticfiles %}
 {% block custom_css %}
     <style type="text/css">
-        .bg-box {
-            position: relative;
-            text-align: center;
-            background-color: #27ae60;
-            color: #fff;
-            margin-bottom: 0;
-        }
 
         .bg-box2 {
-            background: url({% static 'images/招聘2.jpg' %}) repeat-x center center;
-            height: 850px;
+            background: url({% static 'images/招聘3.jpg' %}) repeat-x center center;
+
         }
 
         .captcha1 > input {
@@ -45,18 +38,18 @@
 
         }
 
-    .errorput,
-   .errorput input {
-    border-color: #f00;
-    box-shadow: 0 0 5px #aa0b0b;
-}
+        .errorput,
+        .errorput input {
+            border-color: #f00;
+            box-shadow: 0 0 5px #aa0b0b;
+        }
     </style>
 {% endblock %}
 
 {% block content %}
 
     <div class="container-fluid bg-box2">
-        <div class="row" >
+        <div class="row">
             <div class="col-md-12" style="top: 80px">
                 <div class="register-header col-md-offset-4">
                     <h1>用户注册
@@ -102,10 +95,10 @@
                         {{ register_form.captcha }}
                     </div>
                     <div class="col-md-offset-4 col-md-4">
-                            {% for key,error in register_form.errors.items %}
-                                <p class="text-danger">{{ error }}</p>
-                            {% endfor %}
-                            {{ msg }}
+                        {% for key,error in register_form.errors.items %}
+                            <p class="text-danger">{{ error }}</p>
+                        {% endfor %}
+                        {{ msg }}
                     </div>
                     <div class="form-group">
                         <div class="col-md-offset-4 col-md-4">

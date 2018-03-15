@@ -18,11 +18,12 @@ from django.views.generic import TemplateView
 
 import xadmin
 
-from users.views import RegisterView
+from users.views import RegisterView, LoginView
 
 urlpatterns = [
     path('xadmin/', xadmin.site.urls),
     path('captcha/', include('captcha.urls')),
     path('index/', TemplateView.as_view(template_name='index.html'), name='index'),
-    path('register/', RegisterView.as_view(), name='register')
+    path('register/', RegisterView.as_view(), name='register'),
+    path('login/', LoginView.as_view(), name='login')
 ]

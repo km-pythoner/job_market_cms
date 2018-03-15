@@ -47,6 +47,59 @@
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
         }
+
+        .main-footer {
+            background: #202020;
+            padding: 35px 0 0;
+            color: #959595;
+        }
+
+        .main-footer .widget {
+            padding: 0 30px;
+        }
+
+        .widget {
+            margin-bottom: 35px;
+        }
+
+        .main-footer .widget .title {
+            color: #ffffff;
+            border-bottom: 1px solid #303030;
+        }
+
+        .widget .title {
+            margin-top: 0;
+            padding-bottom: 7px;
+            border-bottom: 1px solid #ebebeb;
+            margin-bottom: 21px;
+            position: relative;
+        }
+
+        .main-footer .widget .tag-cloud a {
+            border: 1px solid #303030;
+        }
+
+        .widget .tag-cloud a {
+            border: 1px solid #ebebeb;
+            padding: 2px 7px;
+            color: #959595;
+            line-height: 1.5em;
+            display: inline-block;
+            margin: 0 7px 7px 0;
+            -webkit-transition: all .2s ease;
+            -o-transition: all .2s ease;
+            transition: all .2s ease;
+        }
+
+        .copyright {
+            background: #111;
+            font-size: 13px;
+            text-align: center;
+            color: #555;
+            padding-top: 14px;
+            padding-bottom: 20px;
+            border-top: 1px solid #303030;
+        }
     </style>
 </head>
 <body>
@@ -67,7 +120,7 @@
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="#">首页</a></li>
+                        <li class="active"><a href="{% url 'index' %}">首页</a></li>
                         <li><a href="#about">职位搜索</a></li>
                         <li><a href="#contact">猎场咨询</a></li>
                         <li><a href="#contact">简历中心</a></li>
@@ -87,11 +140,17 @@
                     </ul>
                     <ul class="nav navbar-nav navbar-right hidden-sm">
                         <li><a href="">下载APP</a></li>
-                        <li>
-                            <a href="" data-toggle="modal" data-target="#login-modal">登录</a>
-                        </li>
-                        <li><a href="">/</a></li>
-                        <li><a href="{% url 'register' %}">注册</a></li>
+                        {% if request.user.is_authenticated %}
+                            <li><a class="personcenter fl" href="usercenter-info.html">您好！{{ request.user.username }}</a></li>
+                            <li><a class="fr" href="/logout/">退出</a></li>
+                        {% else %}
+                            <li>
+                                <a href="" data-toggle="modal" data-target="#login-modal">登录</a>
+                            </li>
+                            <li><a href="">/</a></li>
+                            <li><a href="{% url 'register' %}">注册</a></li>
+                        {% endif %}
+
                     </ul>
                 </div>
             </div>
@@ -112,7 +171,8 @@
                 <h4 class="modal-title" id="gridSystemModalLabel">登录</h4>
             </div>
             <div class="modal-body">
-                <form>
+                <form method="post" action="{% url 'login' %}">
+                    {% csrf_token %}
                     <div class="row">
                         <div class="form-group col-md-7 col-md-offset-2">
                             <input type="text" class="form-control" id="txtUsername" name="username"
@@ -122,7 +182,7 @@
 
                     <div class="row">
                         <div class="form-group col-md-7 col-md-offset-2">
-                            <input type="password" class="form-control" id="txtPassword"
+                            <input type="password" class="form-control" id="txtPassword" name="password"
                                    placeholder="6-16位密码，区分大小写，不能用空格">
                         </div>
                     </div>
@@ -136,6 +196,14 @@
                         <div class="col-md-offset-2 col-md-2">
                             <a href="" style="margin-top: 10px;display: inline-block">忘记密码</a>
                         </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-offset-4 col-md-4">
+                        {% for key,error in login_form.errors.items %}
+                            <p class="text-danger">{{ error }}</p>
+                        {% endfor %}
+                        {{ msg }}
+                    </div>
                     </div>
 
                     <div class="col-md-7 col-md-offset-2">
@@ -154,6 +222,55 @@
                 <div class="row" style="margin-bottom: 15px">
 
                 </div>
+            </div>
+        </div>
+    </div>
+</div>
+<footer class="main-footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="widget">
+                    <h4 class="title">友情链接</h4>
+                    <div class="content tag-cloud friend-links">
+                        <a href="http://www.bootcss.com">Django</a>
+                        <a href="http://www.bootcss.com">Python</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="widget">
+                    <h4 class="title">我们用到的技术</h4>
+                    <div class="content tag-cloud friend-links">
+                        <a href="http://www.bootcss.com">Python</a>
+                        <a href="http://www.bootcss.com">Django</a>
+                        <a href="http://www.bootcss.com">Bootstrap</a>
+                        <a href="http://www.bootcss.com">jQuery</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="widget">
+                    <h4 class="title">赞助商</h4>
+                    <div class="content tag-cloud friend-links">
+                        <a href="http://www.bootcss.com">Python</a>
+                        <a href="http://www.bootcss.com">Django</a>
+                        <a href="http://www.bootcss.com">Bootstrap</a>
+                        <a href="http://www.bootcss.com">jQuery</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div class="copyright">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <span>Copyright © <a href="http://www.youzhan.org">优站精选</a></span>
+                |
+
+                <span><a href="http://www.miibeian.gov.cn/" target="_blank">京ICP备11008151号</a></span>
             </div>
         </div>
     </div>
