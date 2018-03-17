@@ -25,5 +25,6 @@ urlpatterns = [
     path('captcha/', include('captcha.urls')),
     path('index/', TemplateView.as_view(template_name='index.html'), name='index'),
     path('register/', RegisterView.as_view(), name='register'),
-    path('login/', LoginView.as_view(), name='login')
+    path('login/', LoginView.as_view(), name='login'),
+    path('index_app/', TemplateView.as_view(template_name='test5.html')),
 ]

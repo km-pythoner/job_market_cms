@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
     <title>{% block title %}猎场-模板{% endblock %}</title>
 
@@ -103,7 +104,9 @@
     </style>
 </head>
 <body>
-<div class="navbar-wrapper">
+<section>
+    <header>
+        <div class="navbar-wrapper">
     <div class="container">
 
         <nav class="navbar navbar-inverse navbar-fixed-top">
@@ -158,7 +161,10 @@
 
     </div>
 </div>
-<div id="content">
+    </header>
+</section>
+<section>
+    <div id="content">
     {% block content %}{% endblock %}
 </div>
 
