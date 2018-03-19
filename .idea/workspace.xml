@@ -2,95 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9628a0d1-8eb4-4f8d-952c-388bb828c2a4" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/home.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/apply_records.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/home.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/look_me.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/look_me2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/message (1).png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/message.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/message2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/resume (2).png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/resume.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/search.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/search.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/strategy.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/wanted2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/个人简历.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/我的.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/我的人才.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/现有简历.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/简历 (1).png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/简历.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/camera/css/camera.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/camera/js/camera.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/camera/js/camera.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/camera/js/jquery.easing.1.3.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/camera/js/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/camera/js/jquery.mobile.customized.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/jquery-1.8.3.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/jquery.mobile-1.3.2.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/jquery.mobile-1.3.2.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo/images/1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo/images/2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo/images/3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo/images/Thumbs.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo/images/banner-01-a.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo/images/banner-01-b.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo/images/banner-01-c.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo/images/banner2-01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo/images/banner2-02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo/images/banner2-03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo/images/banner3-01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo/images/banner3-02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo/images/banner3-03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo/images/banner3-04.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo/images/banner3-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo/images/banner3-2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo/js/jquery-1.8.3.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo/js/js.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo/style/css.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo/style/public.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo2/css/demo.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo2/css/normalize.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo2/css/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo2/icons/entypo.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo2/icons/entypo.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo2/icons/entypo.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo2/icons/entypo.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo2/icons/entypo.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo2/images/1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo2/images/2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo2/images/3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo2/images/4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo2/images/5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo2/images/6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo2/js/hammer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo2/js/hammer.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo2/js/jquery-1.11.0.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo2/js/slider.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/lunbo2/js/slider.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/swapesslider/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/swapesslider/swipeslider.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/swapesslider/swipeslider.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jquery-mobile/swapesslider/swipeslider.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/base_jq.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/index_jq.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/jq-test.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/test2.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/test3.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/test4.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/test5.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uploads/employer/2018/03/default-profile.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uploads/employer/2018/03/default-profile_71PTSuy.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uploads/employer/2018/03/default-profile_7dyqxOS.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uploads/user/2018/03/default-profile.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uploads/user/2018/03/default-profile_EzS5X0u.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uploads/user/2018/03/default-profile_ex5CLKw.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/job_market_cms/settings.py" afterPath="$PROJECT_DIR$/job_market_cms/settings.py" />
+      <change beforePath="$PROJECT_DIR$/apps/users/views.py" afterPath="$PROJECT_DIR$/apps/users/views.py" />
       <change beforePath="$PROJECT_DIR$/job_market_cms/urls.py" afterPath="$PROJECT_DIR$/job_market_cms/urls.py" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" afterPath="$PROJECT_DIR$/templates/base.html" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -103,13 +18,13 @@
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.7532189">
+    <splitter split-orientation="horizontal" split-proportion="0.23122318">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
           <file leaf-file-name="index_jq.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/templates/index_jq.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="462">
+                <state relative-caret-position="990">
                   <caret line="30" column="98" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="30" selection-end-column="98" />
                   <folding>
                     <element signature="e#235#551#0#HTML" expanded="false" />
@@ -121,7 +36,7 @@
           <file leaf-file-name="test2.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/templates/test2.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="226">
+                <state relative-caret-position="5445">
                   <caret line="165" column="45" lean-forward="false" selection-start-line="165" selection-start-column="45" selection-end-line="165" selection-end-column="45" />
                   <folding>
                     <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -146,44 +61,13 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="test5.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="test5.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/templates/test5.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="312">
-                  <caret line="141" column="14" lean-forward="true" selection-start-line="141" selection-start-column="14" selection-end-line="141" selection-end-column="14" />
+                <state relative-caret-position="180">
+                  <caret line="137" column="33" lean-forward="false" selection-start-line="137" selection-start-column="33" selection-end-line="137" selection-end-column="33" />
                   <folding>
-                    <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#span#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#span#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#span#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#span#1;n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#2;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#2;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#2;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#span#1;n#div#1;n#div#0;n#div#2;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#3;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#3;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#3;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#span#1;n#div#1;n#div#0;n#div#3;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -192,19 +76,21 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/static/jquery-mobile/lunbo2/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="325">
-                  <caret line="547" column="23" lean-forward="true" selection-start-line="547" selection-start-column="23" selection-end-line="547" selection-end-column="23" />
+                <state relative-caret-position="18051">
+                  <caret line="547" column="23" lean-forward="false" selection-start-line="547" selection-start-column="23" selection-end-line="547" selection-end-column="23" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+          <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/job_market_cms/urls.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="524">
-                  <caret line="27" column="54" lean-forward="false" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
-                  <folding />
+                <state relative-caret-position="557">
+                  <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+                  <folding>
+                    <element signature="e#638#684#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -212,13 +98,39 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
-          <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+          <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/templates/base.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="363">
-                  <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+                <state relative-caret-position="168">
+                  <caret line="140" column="33" lean-forward="true" selection-start-line="140" selection-start-column="33" selection-end-line="140" selection-end-column="33" />
+                  <folding>
+                    <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/job_market_cms/settings.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-188">
+                  <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
                   <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/apps/users/views.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="537">
+                  <caret line="69" column="16" lean-forward="false" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="16" />
+                  <folding>
+                    <element signature="e#0#35#0" expanded="true" />
+                    <element signature="e#386#1628#0" expanded="false" />
+                    <element signature="e#1670#1969#0" expanded="false" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -237,18 +149,25 @@
             <entry file="file://$PROJECT_DIR$/templates/jq-test.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="429">
-                  <caret line="13" column="83" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="13" selection-end-column="83" />
+                  <caret line="13" column="83" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="13" selection-end-column="83" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/templates/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="759">
-                  <caret line="23" column="48" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="48" />
-                  <folding />
+                <state relative-caret-position="959">
+                  <caret line="2233" column="14" lean-forward="false" selection-start-line="2233" selection-start-column="14" selection-end-line="2233" selection-end-column="14" />
+                  <folding>
+                    <element signature="n#div#0;n#!!top" expanded="false" />
+                    <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+                    <element signature="n#div#0;n#div#1;n#!!top" expanded="false" />
+                    <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                    <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#!!top" expanded="false" />
+                    <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -286,6 +205,9 @@
       <find>xadmin</find>
       <find>50px</find>
       <find>fluid_container</find>
+      <find>category-list</find>
+      <find>container-body</find>
+      <find>home_banner</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -304,11 +226,9 @@
         <option value="$PROJECT_DIR$/apps/users/__init__.py" />
         <option value="$PROJECT_DIR$/apps/users/models.py" />
         <option value="$PROJECT_DIR$/apps/users/adminx.py" />
-        <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/templates/register.html" />
         <option value="$PROJECT_DIR$/static/css/carousel.css" />
         <option value="$PROJECT_DIR$/apps/users/forms.py" />
-        <option value="$PROJECT_DIR$/apps/users/views.py" />
         <option value="$PROJECT_DIR$/employer/__init__.py" />
         <option value="$PROJECT_DIR$/employer/adminx.py" />
         <option value="$PROJECT_DIR$/employer/apps.py" />
@@ -323,9 +243,11 @@
         <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/templates/test2.html" />
         <option value="$PROJECT_DIR$/templates/test4.html" />
-        <option value="$PROJECT_DIR$/job_market_cms/urls.py" />
         <option value="$PROJECT_DIR$/static/jquery-mobile/lunbo2/css/style.css" />
         <option value="$PROJECT_DIR$/templates/test5.html" />
+        <option value="$PROJECT_DIR$/apps/users/views.py" />
+        <option value="$PROJECT_DIR$/job_market_cms/urls.py" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
       </list>
     </option>
   </component>
@@ -372,35 +294,13 @@
             <path>
               <item name="job_market_cms" type="b2602c69:ProjectViewProjectNode" />
               <item name="job_market_cms" type="462c0819:PsiDirectoryNode" />
-              <item name="extra_apps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="job_market_cms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="job_market_cms" type="462c0819:PsiDirectoryNode" />
-              <item name="extra_apps" type="462c0819:PsiDirectoryNode" />
-              <item name="xadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="job_market_cms" type="b2602c69:ProjectViewProjectNode" />
               <item name="job_market_cms" type="462c0819:PsiDirectoryNode" />
               <item name="job_market_cms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="job_market_cms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="job_market_cms" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="job_market_cms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="job_market_cms" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="job_market_cms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="job_market_cms" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="job_market_cms" type="b2602c69:ProjectViewProjectNode" />
@@ -422,8 +322,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -513,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1521102849011</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="后台管理开发">
+      <created>1521280789769</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1521280789769</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -525,20 +432,20 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25697425" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2607296" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="manage.py@job_market_cms" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42759407" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33979475" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39110604" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -584,17 +491,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="django-line">
           <url>file://$PROJECT_DIR$/templates/index.html</url>
-          <line>7</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/apps/users/views.py</url>
-          <line>55</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/apps/users/views.py</url>
-          <line>65</line>
-          <option name="timeStamp" value="3" />
+          <line>244</line>
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/apps/users/views.py</url>
@@ -605,11 +502,6 @@
           <url>file://$PROJECT_DIR$/apps/users/views.py</url>
           <line>19</line>
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/apps/users/views.py</url>
-          <line>59</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -693,9 +585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#29#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -713,9 +602,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="20" />
-          <folding>
-            <element signature="e#79#92#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -723,7 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -731,19 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#79#92#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/users/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="50" column="6" lean-forward="false" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -751,7 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -759,7 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -767,11 +637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1340615343000" expanded="true" signature="6028:6040" ph="..." />
-            <marker date="1340615343000" expanded="true" signature="24975:25006" ph="..." />
-            <marker date="1340615343000" expanded="true" signature="40091:40153" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -779,7 +644,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -787,7 +651,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-34937">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -803,7 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -811,7 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
           <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -819,7 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="646" column="24" lean-forward="true" selection-start-line="646" selection-start-column="24" selection-end-line="646" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -827,7 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -835,9 +694,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-          <folding>
-            <element signature="n#src#0;n#img#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -845,13 +702,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/test2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
+        <state relative-caret-position="5445">
           <caret line="165" column="45" lean-forward="false" selection-start-line="165" selection-start-column="45" selection-end-line="165" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -869,7 +725,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -894,30 +749,14 @@
     <entry file="file://$PROJECT_DIR$/templates/jq-test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
-          <caret line="13" column="83" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="13" selection-end-column="83" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="23" column="48" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="13" column="83" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="13" selection-end-column="83" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/index_jq.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
+        <state relative-caret-position="990">
           <caret line="30" column="98" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="30" selection-end-column="98" />
           <folding>
             <element signature="e#235#551#0#HTML" expanded="false" />
@@ -929,9 +768,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -939,7 +775,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -947,9 +782,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#33#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -957,7 +789,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -965,32 +796,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#9#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/job_market_cms/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/job_market_cms/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="27" column="54" lean-forward="false" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/jquery-mobile/lunbo2/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="547" column="23" lean-forward="true" selection-start-line="547" selection-start-column="23" selection-end-line="547" selection-end-column="23" />
+        <state relative-caret-position="18051">
+          <caret line="547" column="23" lean-forward="false" selection-start-line="547" selection-start-column="23" selection-end-line="547" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -1030,43 +842,67 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/job_market_cms/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-188">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/test5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="141" column="14" lean-forward="true" selection-start-line="141" selection-start-column="14" selection-end-line="141" selection-end-column="14" />
+        <state relative-caret-position="180">
+          <caret line="137" column="33" lean-forward="false" selection-start-line="137" selection-start-column="33" selection-end-line="137" selection-end-column="33" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#2;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#2;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#2;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#1;n#div#0;n#div#2;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#3;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#3;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#3;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#1;n#div#0;n#div#3;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/users/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="69" column="16" lean-forward="false" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#386#1628#0" expanded="false" />
+            <element signature="e#1670#1969#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_market_cms/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <folding>
+            <element signature="e#638#684#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="140" column="33" lean-forward="true" selection-start-line="140" selection-start-column="33" selection-end-line="140" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="959">
+          <caret line="2233" column="14" lean-forward="false" selection-start-line="2233" selection-start-column="14" selection-end-line="2233" selection-end-column="14" />
+          <folding>
+            <element signature="n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#1;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#1;n#div#1;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
